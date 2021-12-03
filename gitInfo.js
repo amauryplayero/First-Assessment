@@ -84,4 +84,4 @@ code: `git commit -m "<description of the change>"`}
 //CODE HERE
 
 let push = {description: `it pushes your local repository into an internet repository such as the ones
-we upload on github.`,code: `git push <file name>`}
+we upload on github.`,code: `git push origin main`}
